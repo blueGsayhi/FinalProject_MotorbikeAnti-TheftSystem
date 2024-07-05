@@ -6,4 +6,14 @@
     <img src="https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/6aa5d462-76bc-4f13-a395-e92b3b458f52" alt="Image 3" style="width: 24%;">
 </div>
 
+<div style="text-align: center;">
+    <div style="display: flex; justify-content: space-between;">
+        <img src="https://via.placeholder.com/150" alt="Image 1" style="width: 30%;">
+        <img src="https://via.placeholder.com/150" alt="Image 2" style="width: 30%;">
+        <img src="https://via.placeholder.com/150" alt="Image 3" style="width: 30%;">
+    </div>
+    <p>Chữ ở dưới và giữa ba ảnh</p>
+</div>
+
+
 ![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/cccf9475-b874-4bd1-9cad-aded41cb0279)
