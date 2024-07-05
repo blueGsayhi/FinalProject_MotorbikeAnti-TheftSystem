@@ -9,6 +9,5 @@
 <hr>
 <p>Hình ảnh mô hình sau khi lắp vào xe máy</p>
 <div style="display: flex; justify-content: space-between;">
-    <p>Các hình ảnh của mô hình</p>
     <img src="https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/cccf9475-b874-4bd1-9cad-aded41cb0279" alt="Image 1" style="width: 96%;">
 </div>
