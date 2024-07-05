@@ -8,8 +8,6 @@
 </div>
 
 <br>
-    
-
-
+<p>Hình ảnh mô hình sau khi lắp vào xe máy</p>    
 
 ![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/cccf9475-b874-4bd1-9cad-aded41cb0279)
