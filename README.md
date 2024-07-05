@@ -7,7 +7,5 @@
     <img src="https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/6aa5d462-76bc-4f13-a395-e92b3b458f52" alt="Image 3" style="width: 24%;">
 </div>
 <hr>
-<br>
 <p>Hình ảnh mô hình sau khi lắp vào xe máy</p>    
-
 ![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/cccf9475-b874-4bd1-9cad-aded41cb0279)
