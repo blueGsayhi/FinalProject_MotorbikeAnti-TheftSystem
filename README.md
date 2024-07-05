@@ -4,7 +4,7 @@
     <img src="https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/cdfc064b-d3ca-49e0-9b5b-be985d437aa3" alt="Image 2" style="width: 24%;">
     <img src="https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/3cef1d30-1c18-4014-bbde-07c8d8d3febb" alt="Image 3" style="width: 24%;">
     <img src="https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/6aa5d462-76bc-4f13-a395-e92b3b458f52" alt="Image 3" style="width: 24%;">
-    <p style="width: 45%;">Hình ảnh mô hình</p>
+    <p>Các hình ảnh mô hình</p>
 </div>
 
 <br>
