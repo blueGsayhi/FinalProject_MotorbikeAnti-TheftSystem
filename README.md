@@ -1,7 +1,6 @@
 # FinalProject_MotorbikeAnti-TheftSystem
-![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/42bafe0b-2a39-467d-8f1f-8acc9aedc42e)
-![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/e36810d3-d442-406e-9415-dcd5ee9153bd)
-![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/8a879df3-4b8b-4b22-aade-5ca9fe513d6c)
-![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/d9e17593-be74-4e67-b8ce-77e1a0fb6810)
-![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/0fc4b493-ce1a-45fb-b00b-fe69bf8b982a)
-
+![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/e2f4bdf2-b6a0-444e-8a08-4ab59111d4ce)
+![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/cdfc064b-d3ca-49e0-9b5b-be985d437aa3)
+![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/3cef1d30-1c18-4014-bbde-07c8d8d3febb)
+![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/6aa5d462-76bc-4f13-a395-e92b3b458f52)
+![image](https://github.com/blueGsayhi/FinalProject_MotorbikeAnti-TheftSystem/assets/172957016/cccf9475-b874-4bd1-9cad-aded41cb0279)
